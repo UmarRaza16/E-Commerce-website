@@ -1,6 +1,6 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://localhost:5001/api',
+    baseURL: 'https://dashboard.render.com/web/srv-d9dpdrjrjlhs73b3mri0',
 })
 export default api;
